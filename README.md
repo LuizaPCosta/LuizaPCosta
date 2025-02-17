@@ -1,5 +1,2 @@
-## Luiza de Paula
-
-**Desenvolvedora FullStack**
-
-Olá! 
+## Hello, world! 
+# Bem-vindo ao meu portfólio
