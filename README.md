@@ -62,16 +62,14 @@
 <br/>
 
 ### Estatísticas
-
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizapcosta&show_icons=true&theme=radical)"
+    src="https://github-readme-stats.vercel.app/api?username=luizapcosta&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
-  
 
 <img 
       align="left" 
