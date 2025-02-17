@@ -1,4 +1,4 @@
-## Hello, world! Eu sou a Luiza 👋
+## Hello, world! 👋 Eu sou a Luiza
 
 **estudante de Ciência da Computação (UFMG) e aspirante a desenvolvedora**
 
