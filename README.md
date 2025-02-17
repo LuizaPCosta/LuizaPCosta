@@ -1,5 +1,5 @@
 ## Luiza de Paula
 
-** Desenvolvedora FullStack **
+**Desenvolvedora FullStack**
 
 Olá! 
