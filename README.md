@@ -2,8 +2,8 @@
 
 ### Hello, world! 👋
 
-- Estudante do terceiro período de Ciência da Computação (UFMG)
-- Aspirante a desenvolvedora
+- Estudante do quinto período de Ciência da Computação (UFMG)
+- Trainee em desenvolvimento full stack
 
 ### Linguagens e Tecnologias
 
